@@ -1,0 +1,40 @@
+.card-img-top{
+    background-color: #333 !important;
+    border-bottom: 2px solid black !important ;
+}
+
+body {
+    background-color: #8dca88 !important;
+}
+
+.card{
+    border: 2px solid black !important;
+    border-radius: 50px !important;
+    overflow: hidden !important;
+    box-shadow: 5px 10px 5px !important;
+}
+
+.btn-secondary {
+    background-color: #8dca88 !important;
+    border : none !important ;
+    border-right: solid 2px black !important;
+    border-left: solid 2px black !important;
+    font-weight: bold !important;
+}
+
+.btn-primary {
+    background-color: #8dca88 !important;
+    border: none !important;
+    border-right: solid 2px black !important;
+    border-left: solid 2px black !important;
+    font-weight: bold !important;
+}
+
+
+.btn-success {
+    background-color: #333 !important;
+    border: none !important;
+    font-weight: bold !important;
+}
+
+
